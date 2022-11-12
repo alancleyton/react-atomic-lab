@@ -1,5 +1,7 @@
 {
-  "name": "react-atomic",
+  "name": "react-atomic-lab",
+  "description": "React app following atomic design concept",
+  "author": "Alan Cleyton <alancleyton67@gmail.com>",
   "private": true,
   "version": "0.0.0",
   "type": "module",
