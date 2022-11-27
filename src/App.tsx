@@ -4,7 +4,7 @@ import './styles/global.css';
 function App() {
   return (
     <div className="App">
-      <h1 className="text-3xl font-bold underline bg-violet-400 max-w-sm">
+      <h1 className="text-lg font-bold underline bg-midBlue-500 max-w-sm">
         Hello world!
       </h1>
     </div>
